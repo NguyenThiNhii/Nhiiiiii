@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 File nay thuoc branch master
+=======
+File nay thuoc branch test_conflict
+>>>>>>> test_conflict
